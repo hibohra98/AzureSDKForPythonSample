@@ -14,6 +14,7 @@ pip install -r requirements.txt
 ```
 
 Resources
+
 https://azure.github.io/azure-sdk/releases/latest/mgmt/python.html
 
 https://docs.microsoft.com/en-us/azure/developer/python/?view=azure-python
